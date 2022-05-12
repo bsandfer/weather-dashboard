@@ -3,7 +3,8 @@
  
 <h1> Weather Dashboard </h1>
 
-<p> A Weather Dashboard applicaton. HTML | CSS | JS | APIs and Data Handling</p>
+<p> A Weather Dashboard applicaton. 
+ HTML | CSS | JS | APIs and Data Handling</p>
 
 ![alt text](https://github.com/bsandfer/weather-dashboard/blob/main/assets/WeatherDashboardScreenshot.png?raw=true)
 
