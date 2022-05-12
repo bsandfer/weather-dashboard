@@ -5,6 +5,6 @@
 
 <p> A Weather Dashboard applicaton. HTML | CSS | JS | APIs and Data Handling</p>
 
-![alt text](https://github.com/bsandfer/note-taker/blob/main/assets/NoteTakerScreenshot.png?raw=true)
+![alt text](https://github.com/bsandfer/weather-dashboard/blob/main/assets/WeatherDashboardScreenshot.png?raw=true)
 
 Visit the deployed app <a href="https://bsandfer.github.io/weather-dashboard/" target="_blank" rel="noreferrer">here</a>
